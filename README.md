@@ -2,10 +2,10 @@
 I developed a comprehensive project in Excel creating multiple dashboards and tables to analyze the data. this process involved several stages including data cleaning, data processing and data visualization.
 
 
-# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Dada-Collection-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective
-The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The Dada Collection Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
 ## Dataset used
 - <a href="https://github.com/Nakulkushwah/Data-Analysis-Dashboard/blob/main/(Project%201)%20Dada%20Collection%20Store%20Data%20Analysis.xlsx">Dataset</a>
@@ -40,4 +40,4 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - More than 90% of the products delivered
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To improve the sales of Dada-Collection Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
