@@ -1,11 +1,14 @@
 # Data-Analysis-Dashboard
 I developed a comprehensive project in Excel creating multiple dashboards and tables to analyze the data. this process involved several stages including data cleaning, data processing and data visualization.
+
+
 # Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/Nakulkushwah/Data-Analysis-Dashboard/blob/main/(Project%201)%20Dada%20Collection%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
@@ -17,8 +20,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Nakulkushwah/Data-Analysis-Dashboard/blob/main/project%20ss.PNG">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -28,7 +30,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+<img width="1197" height="527" alt="project ss" src="https://github.com/user-attachments/assets/7323920a-1e2d-4748-9d2d-538e0c00bb4c" />
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
